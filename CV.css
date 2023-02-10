@@ -1,0 +1,107 @@
+
+
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-geometrico-plano_23-2148967370.jpg?w=2000);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.cuerpo-cv{
+    background-color: rgba(49, 143, 77, 0.733) ; 
+    margin-left: 15%;
+    margin-right:15%;
+    }
+
+.NOMBRE {
+    margin-left: 60%; 
+}
+
+p{
+    margin-left: 15px;
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}
+.h5{
+    margin-left: 30px; 
+}
+
+.DATOS-SOBRE-MI, .CONOCIMIENTOS{
+    margin: 5% 10%;
+}
+
+
+.SUBRAYADO{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-weight:bold;
+    
+}
+
+.INFO-ADICIONAL p{
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 18px;
+    margin-right: 10%;
+    margin-left: 10%;    
+}
+
+img{
+    width: 128px;
+    height: 128px;
+}
+.img-cara{
+    float:left;
+    padding-top: 5%;
+    padding-left: 10%;    
+}
+.datos{
+    float: right;
+    padding-top: 13%;
+    padding-right: 20%;  
+}
+
+.nombre{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.cabecera{
+    display:block;
+    overflow: hidden;
+}
+
+.contacto{
+    display: block;
+    overflow: hidden;
+ 
+}
+
+.TWITTER{
+    float: right;
+    padding-right: 5%;
+    
+}
+.email{
+    float:left;
+    padding-left: 2%;
+    }
+
+.container{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.btn{
+    border-radius: 4px;
+}
+
+.valor{
+    font-family: serif, bold;
+    font-weight:bold;
+    background-color: aliceblue;
+    padding: 5px;
+}
